@@ -1,0 +1,2 @@
+# PharmacyInventoryManagementSystem
+Java lab project
